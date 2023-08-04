@@ -3,9 +3,8 @@
 
 <div align="center"><h3>🌱1Dohyeon🌱</h3></div>
 <div align="center">
-  <a>- Github Page</a><a href="https://1dohyeon.github.io/"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" href="https://1dohyeon.github.io/"/> : https://1dohyeon.github.io</a>
-  </br>
   <a>- Mail✉️ : </a><a>dh1072005@gmail.com</a>
+  </br>
   <a>- Github Page</a><a href="https://1dohyeon.github.io/"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" href="https://1dohyeon.github.io/"/> : https://1dohyeon.github.io</a>
   </br>
   <a>- Log📗 : </a><a href="https://velog.io/@1_dohyeon">https://velog.io/@1_dohyeon</a>
