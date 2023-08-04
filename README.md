@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=01E165&height=300&section=header&text=Dohyeon%20Won-nl-&desc=Welcome%20to%20my%20github%20page!&render&fontSize=80&fontColor=D1D1D1)
 
+<div align="center"></div>
+
 <div align="center"><h2>🛠Main Tech Stack🛠</h2></div>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
@@ -17,7 +19,8 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-1572B6?style=flat-square&logo=intellijidea&logoColor=white"/>
 </div>
-
+<br/>
+<br/>
 <div align="center"><h2>🛠Learning🛠</h2></div>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
