@@ -4,7 +4,7 @@
 
 <div align="center"><h2>🛠Main Tech Stack🛠</h2></div>
 <div align="center">
-  <img src="https://img.shields.io/badge/java-0066996?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-1E8CBE?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
