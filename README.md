@@ -1,5 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=01E165&height=300&section=header&text=Dohyeon%20Won-nl-&desc=Welcome%20to%20my%20github%20page!&render&fontSize=80&fontColor=D1D1D1)
-![1Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Dohyeon&show_icons=true&theme=transparent)
+
+------
+
+<div align="center"><h2>🛠Tech Stack🛠</h2></div>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+</div>
+
+
+------
+
+<!--![1Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Dohyeon&show_icons=true&theme=transparent)-->
 
 
 
