@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 ![header](https://capsule-render.vercel.app/api?type=waving&color=01E165&height=300&section=header&text=Dohyeon%20Won-nl-&desc=Welcome%20to%20my%20github%20page!&render&fontSize=80&fontColor=D1D1D1)
 
 <div align="center"></br></div>
