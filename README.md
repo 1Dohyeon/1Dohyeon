@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=01E165&height=300&section=header&text=Dohyeon%20Won-nl-&desc=Welcome%20to%20my%20github%20page!&render&fontSize=80&fontColor=D1D1D1)
 
-------
-
 <div align="center"><h2>🛠Main Tech Stack🛠</h2></div>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
@@ -14,6 +12,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-1572B6?style=flat-square&logo=intellijidea&logoColor=white"/>
+</div>
 
 <div align="center"><h2>🛠Learning🛠</h2></div>
 <div align="center">
@@ -23,8 +26,6 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 </div>
 
-
-------
 
 <!--![1Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Dohyeon&show_icons=true&theme=transparent)-->
 
