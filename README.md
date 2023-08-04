@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#01B657&height=300&section=header&text=Dohyeon%20Won&render&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=01B657&height=300&section=header&text=Dohyeon%20Won&render&fontSize=80)
 
 <!--
 **1Dohyeon/1Dohyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
