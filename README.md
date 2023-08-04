@@ -1,7 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
-![header](https://capsule-render.vercel.app/api?type=waving&color=01E165&height=300&section=header&text=Dohyeon%20Won-nl-&desc=Welcome%20to%20my%20github%20page!&render&fontSize=80&fontColor=D1D1D1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=01E165&height=300&section=header&text=Dohyeon%20Won-nl-&desc=Welcome%20to%20my%20github%20plofile!&render&fontSize=80&fontColor=D1D1D1)
 
-<div align="center"></br></div>
+<div align="center"><h3>🌱1Dohyeon🌱</h3></div>
+<div align="center">
+  <a>Github Page : </a><a href="https://1dohyeon.github.io/">https://1dohyeon.github.io</a>
+</div>
+
+------
 
 <div align="center"><h2>🛠Main Tech Stack🛠</h2></div>
 <div align="center">
@@ -17,7 +22,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-1572B6?style=flat-square&logo=intellijidea&logoColor=white"/>
 </div>
 <br/>
