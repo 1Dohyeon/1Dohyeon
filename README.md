@@ -7,7 +7,7 @@
   </br>
   <a>- Github Page</a><a href="https://1dohyeon.github.io/"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" href="https://1dohyeon.github.io/"/> : https://1dohyeon.github.io</a>
   </br>
-  <a>- Log📗 : </a><a href="https://velog.io/@1_dohyeon">https://velog.io/@1_dohyeon</a>
+  <a>- Log📗 :
 </div>
 
 ------
