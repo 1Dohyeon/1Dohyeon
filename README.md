@@ -1,13 +1,3 @@
-### Hi, there
-
-안녕하세요, 백엔드 공부를 하는 대학생입니다.
-배우는 것을 좋아합니다. **기록은 자산**이라고 생각하여 깃허브와 블로그에 공부 과정을 기록하고 있습니다.
-- Blog📗 : [Blog URL](https://1dohyeon.github.io/)
-
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/><img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
----
 ### Repository
 
 **Study**
